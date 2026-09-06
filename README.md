@@ -14,24 +14,15 @@ const developer = {
   buildings: "Rota Dev",
   mindset: "Code. Deploy. Automate. Evolve."
 };
+> booting fox system...
+> [OK] Developer profile loaded
+> [OK] Infrastructure modules loaded
+> [OK] CI/CD pipelines online
 
-<!--
-**Ti-host/Ti-host** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-```json
-const dev = {
-  rules: "Full Stack Developer",
-  stack: ["React", "TypeScript", "Node"],
-  buildings: "Rota Dev"
-};
-```
-Here are some ideas to get you started:
+ROLE: DevOps Engineer
+STACK: Node | Docker | AWS | CI/CD
+BUILDING: Rota Dev
+STATUS: Focused
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> awaiting next challenge..._
+
