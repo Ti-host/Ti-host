@@ -32,6 +32,10 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ti-host&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ti-host&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+<br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ti-host/Ti-host/output/github-snake-dark.svg" alt="Snake Animation" width="100%">
+</div>
 
 
