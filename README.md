@@ -1,8 +1,19 @@
-README.md:
-![Fox Banner](./banner.png)
+<div align="center">
+  <img src="banner.png" alt="Toni DevOps - Fox System" width="100%" />
+</div>
 
-### 01 // FOX_IDENTITY 
-### 02 // FOX_STACK
+<br>
+
+### 01 // FOX_IDENTITY
+
+```json
+const developer = {
+  name: "Toni",
+  role: "DevOps Engineer & Full Stack",
+  stack: ["React", "TypeScript", "Node", "Docker", "AWS"],
+  buildings: "Rota Dev",
+  mindset: "Code. Deploy. Automate. Evolve."
+};
 
 <!--
 **Ti-host/Ti-host** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
