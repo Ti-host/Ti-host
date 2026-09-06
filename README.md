@@ -38,30 +38,4 @@
   <img src="https://raw.githubusercontent.com/Ti-host/Ti-host/output/github-snake-dark.svg" alt="Snake Animation" width="100%">
 </div>
 
-### 05 // SYSTEM_METRICS
-<div align="center">
-  <img src="banner.png" alt="Toni DevOps - Fox System" width="100%" />
-</div>
 
-<br>
-
-<div align="center">
-  <a href="mailto:tonidev.office@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6B00" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/antoniojosesilvalima" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF6B00" alt="LinkedIn" />
-  </a>
-</div>
-
-<br>
-
-### 01 // FOX_IDENTITY
-
-```json
-const developer = {
-  name: "Toni",
-  role: "DevOps Engineer & Full Stack",
-  buildings: "Rota Dev",
-  mindset: "Code. Deploy. Automate. Evolve."
-};
