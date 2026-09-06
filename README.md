@@ -35,5 +35,9 @@
 
 ### 03 // STATUS
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ti-host&theme=darcula&locale=pt_BR)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Ti-host&theme=darcula&locale=pt_BR" alt="GitHub Streak" />
+  </a>
+</div>
 
