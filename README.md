@@ -34,3 +34,7 @@
 </div>
 
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ti-host&theme=highcontrast&locale=pt_BR)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ti-host&theme=highcontrast&locale=pt_BR" alt="GitHub Streak" /></a>
