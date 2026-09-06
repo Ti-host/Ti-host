@@ -1,8 +1,18 @@
-## Hi there 👋
+README.md:
+![Fox Banner](./banner.png)
+
+### 01 // FOX_IDENTITY 
+### 02 // FOX_STACK
 
 <!--
 **Ti-host/Ti-host** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+```json
+const dev = {
+  rules: "Full Stack Developer",
+  stack: ["React", "TypeScript", "Node"],
+  buildings: "Rota Dev"
+};
+```
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
