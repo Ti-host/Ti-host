@@ -33,4 +33,4 @@
   <img src="https://raw.githubusercontent.com/Ti-host/Ti-host/output/github-snake-dark.svg" alt="Snake Animation" width="100%">
 </div>
 
-
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
