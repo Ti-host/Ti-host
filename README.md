@@ -21,32 +21,12 @@
 
 ### 01 // FOX_IDENTITY
 
-```json
-const developer = {
-  name: "Toni",
-  role: "DevOps Engineer & Full Stack",
-  architecture: ["Microservices", "Serverless", "CI/CD"],
-  buildings: "Rota Dev",
-  mindset: "Code. Deploy. Automate. Evolve."
-};
+### 04 // FOX_TERMINAL
 
-02 // TECH_STACK
-> CLOUD & DEVOPS
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FF6B00&background=0D1117&center=false&vCenter=false&width=600&lines=%3E+booting+fox+system...;%3E+%5BOK%5D+Developer+profile+loaded;%3E+%5BOK%5D+Infrastructure+modules+loaded;%3E+%5BOK%5D+CI%2FCD+pipelines+online;%3E+ROLE%3A+DevOps+Engineer;%3E+awaiting+next+challenge..._" alt="Fox Terminal Animation" />
+</div>
+### 04 // FOX_TERMINAL
 
 
-> FULL STACK
 
-
-03 // RECENT_DEPLOYMENTS
-
-> booting fox system...
-> [OK] Developer profile loaded
-> [OK] Infrastructure modules loaded
-> [OK] CI/CD pipelines online
-
-ROLE: DevOps Engineer
-STACK: Node | Docker | AWS | CI/CD
-BUILDING: Rota Dev
-STATUS: Focused
-
-> awaiting next challenge..._
