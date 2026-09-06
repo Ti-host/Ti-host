@@ -6,13 +6,6 @@
 
 ### 01 // FOX_IDENTITY
 
-@toniinformatica_
-
-02 // FOX_STACK
-
-
-03 // FOX_TERMINAL
-
 ```json
 const developer = {
   name: "Toni",
@@ -21,6 +14,25 @@ const developer = {
   buildings: "Rota Dev",
   mindset: "Code. Deploy. Automate. Evolve."
 };
+
+@toniinformatica_
+
+02 // FOX_STACK
+
+
+03 // FOX_TERMINAL
+
+> booting fox system...
+> [OK] Developer profile loaded
+> [OK] Infrastructure modules loaded
+> [OK] CI/CD pipelines online
+
+ROLE: DevOps Engineer
+STACK: Node | Docker | AWS | CI/CD
+BUILDING: Rota Dev
+STATUS: Focused
+
+> awaiting next challenge..._
 > booting fox system...
 > [OK] Developer profile loaded
 > [OK] Infrastructure modules loaded
