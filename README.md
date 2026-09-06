@@ -6,10 +6,10 @@
 
 <div align="center">
   <!-- Substitua pelos seus links reais -->
-  <a href="mailto:seu-email-aqui@gmail.com" target="_blank">
+  <a href="mailto: tonidev.office@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6B00" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://linkedin.com/in/antoniojosesilvalima" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF6B00" alt="LinkedIn" />
   </a>
   <a href="https://seu-portfolio.com" target="_blank">
