@@ -5,6 +5,8 @@
 <br>
 
 ### 01 // FOX_IDENTITY
+02 // FOX_STACK
+03 // FOX_TERMINAL
 
 ```json
 const developer = {
