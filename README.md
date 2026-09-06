@@ -33,8 +33,7 @@
   <img src="https://raw.githubusercontent.com/Ti-host/Ti-host/output/github-snake-dark.svg" alt="Snake Animation" width="100%">
 </div>
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+### 03 // STATUS
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ti-host&theme=highcontrast&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ti-host&theme=darcula&locale=pt_BR)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ti-host&theme=highcontrast&locale=pt_BR" alt="GitHub Streak" /></a>
