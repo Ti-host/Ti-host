@@ -38,4 +38,10 @@
   <img src="https://raw.githubusercontent.com/Ti-host/Ti-host/output/github-snake-dark.svg" alt="Snake Animation" width="100%">
 </div>
 
+### 05 // SYSTEM_METRICS
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ti-host&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ti-host&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+</div>
 
