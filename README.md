@@ -27,6 +27,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FF6B00&background=0D1117&center=false&vCenter=false&width=600&lines=%3E+booting+fox+system...;%3E+%5BOK%5D+Developer+profile+loaded;%3E+%5BOK%5D+Infrastructure+modules+loaded;%3E+%5BOK%5D+CI%2FCD+pipelines+online;%3E+ROLE%3A+DevOps+Engineer;%3E+awaiting+next+challenge..._" alt="Fox Terminal Animation" />
 </div>
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 
